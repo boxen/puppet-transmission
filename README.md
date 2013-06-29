@@ -1,6 +1,8 @@
 # Transmission
-[Transmission](http://www.transmissionbt.com/) BitTorrent client for the
-Mac
+
+[![Build Status](https://travis-ci.org/boxen/puppet-transmission.png?branch=master)](https://travis-ci.org/boxen/puppet-transmission)
+
+[Transmission](http://www.transmissionbt.com/) BitTorrent client for the Mac
 
 ## Usage
 
